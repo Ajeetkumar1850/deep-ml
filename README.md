@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,11 +14,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-22 | [solution](problems/1103-filter-rows-with-where) |
-| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-21 | [solution](problems/0014-linear-regression-using-normal-equation) |
-| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-20 | [solution](problems/1101-select-all-rows) |
-| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-20 | [solution](problems/1102-select-specific-columns) |
-| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-19 | [solution](problems/1104-sort-results-with-order-by) |
-| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-19 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-22 | [solution](problems/0046-implement-precision-metric) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-22 | [solution](problems/1101-select-all-rows) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-22 | [solution](problems/1102-select-specific-columns) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-22 | [solution](problems/1104-sort-results-with-order-by) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-22 | [solution](problems/0002-transpose-of-a-matrix) |
 
 ---
 
