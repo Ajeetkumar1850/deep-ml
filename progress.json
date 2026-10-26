@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:47:15.651Z",
+  "generated_at": "2026-10-26T07:49:35.200Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-10-26T07:47:16.315Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1152": {
+      "kind": "problem",
+      "id": "1152",
+      "title": "GPU Credit Ledger with Expiration",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1152",
+      "path": "problems/1152-gpu-credit-ledger-with-expiration",
+      "first_solved_at": "2026-10-26T07:49:35.881Z",
+      "last_pushed_at": "2026-10-26T07:49:35.881Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
