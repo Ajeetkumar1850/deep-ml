@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-22 | [solution](problems/0002-transpose-of-a-matrix) |
 | [GPU Credit Ledger with Expiration](https://www.deep-ml.com/problems/1152) | medium | 2026-10-26 | [solution](problems/1152-gpu-credit-ledger-with-expiration) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-23 | [solution](problems/0017-k-means-clustering) |
+| [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-10-27 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 
 ---
 
