@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-24 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-25 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-27 | [solution](problems/0003-reshape-matrix) |
 | [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-10-26 | [solution](problems/1250-reverse-a-singly-linked-list) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-24 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-22 | [solution](problems/1101-select-all-rows) |
